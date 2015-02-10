@@ -33,13 +33,7 @@
 
 DEFINE_ANE_FUNCTION(CreateSigContext);
 DEFINE_ANE_FUNCTION(CoreImageFilterRequest);
-/*
-DEFINE_ANE_FUNCTION(SharpenLuminance);
-DEFINE_ANE_FUNCTION(UnsharpMask);
-DEFINE_ANE_FUNCTION(VibranceFilter);
-DEFINE_ANE_FUNCTION(ColorControls);
-DEFINE_ANE_FUNCTION(Noir);
-*/
+
 
 void FiltersContextInitializer(void* extData, const uint8_t* ctxType, FREContext ctx,
                                uint32_t* numFunctionsToTest, const FRENamedFunction** functionsToSet);

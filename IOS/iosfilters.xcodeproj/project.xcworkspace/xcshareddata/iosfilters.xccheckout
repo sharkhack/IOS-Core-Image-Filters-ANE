@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>192210B5-4F7B-47C7-BB00-A978EFA4536E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iosfilters</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>48AED72D8C2ACA89CDEECC628D64C2853F3564B8</key>
+		<string>https://github.com/sharkhack/IOS-Core-Image-Filters-ANE.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>IOS/iosfilters.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>48AED72D8C2ACA89CDEECC628D64C2853F3564B8</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sharkhack/IOS-Core-Image-Filters-ANE.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>48AED72D8C2ACA89CDEECC628D64C2853F3564B8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>48AED72D8C2ACA89CDEECC628D64C2853F3564B8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IOS-Core-Image-Filters-ANE</string>
+		</dict>
+	</array>
+</dict>
+</plist>
